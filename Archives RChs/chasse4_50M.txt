@@ -1,0 +1,65 @@
+Avant combat
+Troupe en attaque : 42 269 647 Jeune soldates, 4 396 043 Soldates, 2 880 374 Soldate d'élites, 458 927 Tirailleuse d'élites, 12 560 123 Jeune légionnaires, 3 303 071 Légionnaires, 1 147 319 Tanks, 1 207 704 Tank d'élites, 241 540 Enigmas.
+Troupe en défense : 3 337 197 Criquets, 505 494 Scarabées, 550 676 Petit lézards, 58 132 Tétras, 2 089 Blaireaus, 315 Tamanoirs, 42 Hommes.
+
+Combat :
+Vous infligez 1 540 891 362 ( +3 674 255 453) dégâts et vous tuez 4 453 945 ennemis
+La défense riposte et vous inflige 96 798 937 dégâts et tue 1 833 313 ennemis
+
+
+Après combat
+Troupe en attaque : Vous venez d'écraser votre rival, le destin vous sourit ! 
+Troupes en attaque : 40 399 005 Jeune soldates, 4 403 508 Soldates, 2 910 238 Soldate d'élites, 458 927 Tirailleuse d'élites, 12 545 191 Jeune légionnaires, 3 318 003 Légionnaires, 1 132 387 Tanks, 1 222 636 Tank d'élites, 241 540 Enigmas.
+
+Expérience gagnée :
+37 329 Soldates, 29 864 Soldate d'élites, 14 932 Légionnaires, 14 932 Tank d'élites. 
+
+Vous avez chassé 50 000 000 cm² de terrain de chasse
+Votre armée ramène les carcasses de la bataille, vous avez récolter 2 394 944 888 nourritures
+Terrain avant : 1 050 084 090 Terrain après : 1 100 084 090
+
+Difficulté de la chasse : 5 045 842 282
+
+Avant combat
+Troupe en attaque : 43 849 062 Jeune soldates, 4 560 302 Soldates, 2 988 000 Soldate d'élites, 476 075 Tirailleuse d'élites, 13 029 435 Jeune légionnaires, 3 426 491 Légionnaires, 1 190 188 Tanks, 1 252 830 Tank d'élites, 250 566 Enigmas.
+Troupe en défense : 4 038 839 Criquets, 1 597 782 Guêpes, 611 774 Scarabées, 65 104 Chauve-souris, 32 073 Pics, 51 Hommes.
+
+Combat :
+Vous infligez 1 598 467 253 ( +3 811 545 165) dégâts et vous tuez 6 345 623 ennemis
+La défense riposte et vous inflige 99 035 310 dégâts et tue 1 875 669 ennemis
+
+
+Après combat
+Troupe en attaque : Vous venez d'écraser votre rival, le destin vous sourit ! 
+Troupes en attaque : 41 935 337 Jeune soldates, 4 567 913 Soldates, 3 018 445 Soldate d'élites, 476 075 Tirailleuse d'élites, 13 014 213 Jeune légionnaires, 3 441 713 Légionnaires, 1 174 966 Tanks, 1 268 052 Tank d'élites, 250 566 Enigmas.
+
+Expérience gagnée :
+38 056 Soldates, 30 445 Soldate d'élites, 15 222 Légionnaires, 15 222 Tank d'élites. 
+
+Vous avez chassé 50 000 000 cm² de terrain de chasse
+Votre armée ramène les carcasses de la bataille, vous avez récolter 2 493 290 598 nourritures
+Terrain avant : 1 100 084 090 Terrain après : 1 150 084 090
+
+Difficulté de la chasse : 5 234 335 194
+
+Avant combat
+Troupe en attaque : 95 580 351 Jeune soldates, 9 634 485 Soldates, 6 332 778 Soldate d'élites, 1 082 859 Tirailleuse d'élites, 27 570 519 Jeune légionnaires, 7 242 902 Légionnaires, 2 898 559 Tanks, 2 718 024 Tank d'élites, 525 037 Enigmas.
+Troupe en défense : 4 877 139 Fourmis, 4 757 350 Araignées, 950 803 Scarabées, 761 711 Lézards.
+
+Combat :
+Vous infligez 3 445 758 904 ( +8 216 412 107) dégâts et vous tuez 11 347 003 ennemis
+La défense riposte et vous inflige 172 570 821 dégâts et tue 3 268 387 ennemis
+
+
+Après combat
+Troupe en attaque : Vous venez d'écraser votre rival, le destin vous sourit ! 
+Troupes en attaque : 92 247 642 Jeune soldates, 9 647 349 Soldates, 6 384 236 Soldate d'élites, 1 082 859 Tirailleuse d'élites, 27 544 790 Jeune légionnaires, 7 268 631 Légionnaires, 2 872 830 Tanks, 2 743 753 Tank d'élites, 525 037 Enigmas.
+
+Expérience gagnée :
+64 322 Soldates, 51 458 Soldate d'élites, 25 729 Légionnaires, 25 729 Tank d'élites. 
+
+Vous avez chassé 50 000 000 cm² de terrain de chasse
+Votre armée ramène les carcasses de la bataille, vous avez récolter 2 175 101 082 nourritures
+Terrain avant : 1 150 084 090 Terrain après : 1 200 084 090
+
+Difficulté de la chasse : 5 423 379 070

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1508508452 source:d:\mes documents\programmation c\simulateur de chasse naw\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1510075373 source:c:\users\chris\documents\programmation c\simulateur de chasse naw\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1517171058 source:d:\mes documents\my games\nature at war\simulateur de chasse\simulateur de chasse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1526841674 source:d:\mes documents\my games\nature at war\simulateur de chasse\simulateur de chasse en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
