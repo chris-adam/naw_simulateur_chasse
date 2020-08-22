@@ -8,3 +8,5 @@ Ce simulateur a une première version en C qui n'a plus été mise à jour depui
 La version la plus récente est écrite en Python mais n'a pas été mise à jour depuis 2019.
 
 Les calculs d'optimisation sont également disponibles dans des fichiers GeoGebra et Excel en vrac.
+
+Ce simulateur de chasse, aux cotés de mon système de répartition équitable des ressources, m'a permis de propulser l'alliance que j'ai créée dans le top 3 en quelques semaines. Puis, pendant plus de 3 ans et ce pendant toute la durée du serveur 1 du jeu, mon alliance est restée première dans tous les classements.
