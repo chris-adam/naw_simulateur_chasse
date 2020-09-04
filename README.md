@@ -10,3 +10,9 @@ La version la plus récente est écrite en Python mais n'a pas été mise à jou
 Les calculs d'optimisation sont également disponibles dans des fichiers GeoGebra et Excel en vrac.
 
 Ce simulateur de chasse, aux cotés de mon système de répartition équitable des ressources, m'a permis de propulser l'alliance que j'ai créée dans le top 3 en quelques semaines. Puis, pendant plus de 3 ans et ce pendant toute la durée du serveur 1 du jeu, mon alliance est restée première dans tous les classements.
+
+<img src="https://i.gyazo.com/415b039a9717b49da89767118f8f663d.png" width="40%">
+
+<img src="https://i.gyazo.com/cb907558c53fcb6c833d8497c602b951.png" width="40%">
+
+<img src="https://i.gyazo.com/bb196fd87f642f8a1b8d20cc327a5602.png" width="40%">
