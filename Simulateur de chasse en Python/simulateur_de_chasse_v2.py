@@ -19,7 +19,7 @@ def min_deriv(tableau):
 
 
 def approx_fdf(tdc_arrivee, tdc_chasse):
-    return 156 + 4.685644*(tdc_chasse**1.105944) + 0.466*tdc_arrivee*(tdc_chasse**0.1066647)
+    return (156 + 4.685644*(tdc_chasse**1.105944) + 0.466*tdc_arrivee*(tdc_chasse**0.1066647)) * 0.85
 
 
 def calcul_fdf(nbr_unites, mandibule):
